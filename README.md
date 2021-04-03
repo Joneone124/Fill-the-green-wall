@@ -13,6 +13,8 @@ git push -u origin master 将本地仓库push到GitHub中
 
 如果出现问题，可以用 git status 检查
 
+其次，这是个py文件，你需要有相应的python环境
+
 ### 见证奇迹
 将fun文件移动至你的本地git目录，并运行
 
